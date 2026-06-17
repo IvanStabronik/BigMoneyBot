@@ -1,0 +1,8 @@
+pytest
+pydantic
+pydantic-settings
+python-dotenv
+SQLAlchemy
+MetaTrader5
+pandas
+numpy
